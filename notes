@@ -1,0 +1,5 @@
+index.php---login
+home.php--first page with a sign up and sign in link
+addrep--comes after admin clicks on add representatuve link. It adds the user to user table and representatives table
+admin.php--home page of admin
+register.php-registration code
